@@ -99,7 +99,7 @@ void shop ::login()
     cout << "enter password" << endl;
     cin >> password;
 
-    if (email == "neeleshishu021@gmail.com" && password == "adgjmptw.21"  || email == "kkivines@gmail.com" && password == "adgjmptw.21")
+    if (email == "project@gmail.com" && password == "hii@123")
     {
         cout << "...................welcome to the workers page.........................\n";
         workerspage();
